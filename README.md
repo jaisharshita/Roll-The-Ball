@@ -2,7 +2,7 @@
 OVERVIEW: <br> 
 This project is a 3D orthographic game made using Unity and C#. <br> 
 The goal of the game is to navigate a ball through various obstacles while collecting items. <br> 
-This project includes most basic concepts of Unity and C# script, like moving objects, collision detectors, camera view manipulation, and UI elements. <br> 
+This project includes most basic concepts of Unity and C# script, like moving objects, collision detectors, camera view manipulation, and UI elements. <br> <br>
 
 FEATURES: <br> 
 Player movement: The user uses his keyboard to control the movement of the ball while it navigates through the game environment. <br>
