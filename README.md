@@ -12,8 +12,6 @@ Obstacles: Obstacles like 'danger sign' challenge the player and make the game d
 User Interface: A UI system is added for tracking the player's score, his health etc. <br> 
 Sound Effects: Integration of sound effects with collectibles, winning, and collision of the player with obstacles. <br>
 
-(Open the Project, taking into consideration that Unity should be installed on your machine) <br>
-
 GETTING STARTED: After the project opens in Unity, press the Play button. <br>
 
 HOW TO PLAY: <br> 
@@ -29,4 +27,8 @@ Scripts: Includes C# scripts controlling game logic, movement of players, behavi
 
 FUTURE ENHANCEMENTS: <br>
 More levels: Many more levels increasingly difficult and of different types. <br>
-Improved graphics: Increased texture resolution; more complex lighting effects.
+Improved graphics: Increased texture resolution; more complex lighting effects. <br>
+
+( To Open the Project and Play the game, taking into consideration that Unity should be installed on your machine) <br>
+or copy this link for a quick tutorial: <br>
+https://youtu.be/I9QK_2QW9W8?si=6C_GNtllZ_Ckw5nC
