@@ -31,4 +31,8 @@ Improved graphics: Increased texture resolution; more complex lighting effects. 
 
 ( To Open the Project and Play the game, taking into consideration that Unity should be installed on your machine) <br>
 or copy this link for a quick tutorial: <br>
-https://youtu.be/I9QK_2QW9W8?si=6C_GNtllZ_Ckw5nC
+https://youtu.be/I9QK_2QW9W8?si=6C_GNtllZ_Ckw5nC <br>
+
+if you only want to play the game: <br>
+download the project-2.exe file <br>
+then download the application to finally play the game 
